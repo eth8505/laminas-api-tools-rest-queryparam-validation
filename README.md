@@ -3,12 +3,17 @@ The **LaminasRestQueryParamValidation** module allows you to validate query para
 [laminas-api-tools/api-tools-rest](https://github.com/laminas-api-tools/api-tools-rest) just like you would with 
 [laminas-api-tools/api-tools-content-validation](https://github.com/laminas-api-tools/api-tools-content-validation) for entities.
 
+[![CI Status](https://github.com/eth8505/laminas-api-tools-rest-queryparam-validation/workflows/phpunit/badge.svg)](https://github.com/eth8505/laminas-api-tools-rest-queryparam-validation/actions)
+![Packagist](https://img.shields.io/packagist/dt/eth8505/laminas-api-tools-rest-queryparam-validation.svg)
+![Packagist Version](https://img.shields.io/packagist/v/eth8505/laminas-api-tools-rest-queryparam-validation.svg)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/eth8505/laminas-api-tools-rest-queryparam-validation.svg)
+
 ## How to install
 
-Install `eth8505/api-tools-rest-queryparam-validation` package via composer.
+Install `eth8505/laminas-api-tools-rest-queryparam-validation` package via composer.
 
 ~~~bash
-$ composer require eth8505/api-tools-rest-queryparam-validation
+$ composer require eth8505/laminas-api-tools-rest-queryparam-validation
 ~~~
 
 Load the module in your `application.config.php` file like so:
